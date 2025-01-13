@@ -67,3 +67,5 @@ ls ./data/processed/server_logs >> ./data/inventory.txt
 ###########################################
 
 echo "Project setup is complete!"
+
+##This is a dummy comment
